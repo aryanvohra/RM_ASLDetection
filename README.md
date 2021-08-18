@@ -17,6 +17,9 @@ source .venv/bin/activate
 
 `pip install -r requirements.txt`
 
+The file can be accessed here [requirements.txt](https://github.com/aryanvohra/RM_AslDetection/blob/main/requirements.txt)
+
+
 * This command will install all the libraries and other reuirements necessary with the exact versions used in this project. You need to change the path of the dataset in the file `Collect_Data.py` by changing the `path` variable in the code.
 
 ```
