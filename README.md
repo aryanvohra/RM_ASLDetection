@@ -57,7 +57,7 @@ We tested our CNN model for three different gradient optimizers: `Adam` , `SGD` 
 
 Model    | Train Accuracy | Test Accuracy | Loss      | 
 ---      | ---            | ---           | ---       |            
-Adam     | 0.944          |  0.525        | 0.1645    |       
+Adam     | 0.944          |  0.5897       | 0.1645    |       
 SGD      | 0.5827         |  0.3205       | 1.3414    |         
 Adadelta | 0.8970         |  0.5008       | 0.3157    |           
 
